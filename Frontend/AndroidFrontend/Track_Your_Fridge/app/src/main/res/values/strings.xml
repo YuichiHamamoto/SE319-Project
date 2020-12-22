@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Track_Your_Fridge</string>
+
+    <string-array name="units">
+        <item>g</item>
+        <item>lb</item>
+        <item>ml</item>
+        <item>none</item>
+    </string-array>
+</resources>
